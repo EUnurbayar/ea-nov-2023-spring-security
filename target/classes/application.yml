@@ -1,9 +1,9 @@
 spring:
   application:
-    name: spring-security
+    name: spring_security
   datasource:
     password: password
-    url: jdbc:mysql://localhost:3307/spring-security
+    url: jdbc:mysql://localhost:3306/spring_security
     username: root
   jpa:
     hibernate:
